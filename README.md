@@ -8,3 +8,6 @@ A simple Dart console application that calculates customer coffee shop orders, a
 
 ## How to Run the Program
 To run this application, execute the following command in the terminal:
+
+bash
+dart run bin/main.dart
